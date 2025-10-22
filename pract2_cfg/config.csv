@@ -1,0 +1,9 @@
+parameter,value
+package_name,requests
+repository_url,https://pypi.org
+test_repo_mode,false
+package_version,2.28.0
+output_filename,graph.png
+ascii_tree_mode,true
+max_depth,5
+package_filter,urllib3
